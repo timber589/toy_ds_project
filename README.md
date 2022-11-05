@@ -1,2 +1,3 @@
 # toy_ds_project
-# project creation date: 11/05/2022
+project creation date: 11/05/2022
+author Brian K
